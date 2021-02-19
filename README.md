@@ -1,2 +1,2 @@
 # RepoTest
-For testing git and Github
+For testing git commands and Github
